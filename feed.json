@@ -1,19 +1,20 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "水文 & 摄影",
-    "subtitle": "",
+    "subtitle": "为了更好地访问，你可能需要一点魔法",
     "icon": "http://example.com/images/favicon.ico",
     "description": "",
     "home_page_url": "http://example.com",
     "items": [
         {
-            "id": "http://example.com/photography/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/",
-            "url": "http://example.com/photography/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/",
+            "id": "http://example.com/photography/photo-share/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/",
+            "url": "http://example.com/photography/photo-share/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/",
             "title": "课上摸鱼",
             "date_published": "2023-11-12T03:50:08.798Z",
             "content_html": "<p><img data-src=\"https://raw.githubusercontent.com/hjx159/picture-bed/main/img/1655450287450.jpeg\" alt=\"1655450287450\" title=\"早自习\" /></p>\n<p><img data-src=\"https://raw.githubusercontent.com/hjx159/picture-bed/main/img/1655450274590.jpeg\" alt=\"1655450274590\" title=\"无聊的嵌入式课堂\" /></p>\n",
             "tags": [
-                "摄影"
+                "摄影",
+                "照片分享"
             ]
         },
         {

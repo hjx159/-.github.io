@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>水文 &amp; 摄影</title>
-        <subtitle></subtitle>
+        <subtitle>为了更好地访问，你可能需要一点魔法</subtitle>
         <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
@@ -13,10 +13,11 @@
         <pubDate>Sun, 12 Nov 2023 11:50:08 +0800</pubDate>
         <lastBuildDate>Sun, 12 Nov 2023 11:50:08 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/photography/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/</guid>
+            <guid isPermalink="true">http://example.com/photography/photo-share/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/</guid>
             <title>课上摸鱼</title>
-            <link>http://example.com/photography/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/</link>
+            <link>http://example.com/photography/photo-share/%E8%AF%BE%E4%B8%8A%E6%91%B8%E9%B1%BC/</link>
             <category term="摄影" scheme="http://example.com/categories/photography/" />
+            <category term="照片分享" scheme="http://example.com/categories/photography/photo-share/" />
             <pubDate>Sun, 12 Nov 2023 11:50:08 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/hjx159/picture-bed/main/img/1655450287450.jpeg&#34; alt=&#34;1655450287450&#34; title=&#34;早自习&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/hjx159/picture-bed/main/img/1655450274590.jpeg&#34; alt=&#34;1655450274590&#34; title=&#34;无聊的嵌入式课堂&#34; /&gt;&lt;/p&gt;
