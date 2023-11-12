@@ -16,6 +16,7 @@
         <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/hjx159/picture-bed/main/img/1655450287450.jpeg&#34; alt=&#34;1655450287450&#34; title=&#34;早自习&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/hjx159/picture-bed/main/img/1655450274590.jpeg&#34; alt=&#34;1655450274590&#34; title=&#34;无聊的嵌入式课堂&#34; /&gt;&lt;/p&gt;
 </content>
+        <category term="摄影" scheme="http://example.com/categories/photography/" />
         <updated>2023-11-12T03:50:08.798Z</updated>
     </entry>
     <entry>
