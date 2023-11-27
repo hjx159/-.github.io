@@ -765,7 +765,8 @@
 &lt;hr /&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/hjx159/picture-bed/main/img/image-20231127104552414.png&#34; alt=&#34;image-20231127104552414&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;在测试中，即使是在默认的 RR 隔离级别下，事务 A 中依然可以读取到事务 B 最新提交的内容，因为在查询语句后面加上了  &lt;code&gt;lock in share mode&lt;/code&gt;  共享锁，此时是当前读操作。当然，当我们加排他锁的时候，也是当前读操作。&lt;/p&gt;
-&lt;h6 id=&#34;mvcc&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mvcc&#34;&gt;#&lt;/a&gt; MVCC&lt;/h6&gt;
+&lt;h6 id=&#34;mvcc多版本并发控制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mvcc多版本并发控制&#34;&gt;#&lt;/a&gt; MVCC（多版本并发控制）&lt;/h6&gt;
+&lt;p&gt;全称是 &lt;code&gt;Multi-Version Concurrency Control&lt;/code&gt; ，指 **&lt;font color=&#39;red&#39;&gt;维护一个数据的多个版本，使得读写操作没有冲突&lt;/font&gt;&lt;strong&gt;。（先加粗，后加红）&lt;/strong&gt;&lt;font color=&#39;red&#39;&gt;快照读为 MySQL 实现 MVCC 提供了一个非阻塞读功能&lt;/font&gt;**。（先加红，后加粗）MVCC 的具体实现，还需要依赖于数据库记录中的三个隐式字段、undo log 日志、readView。&lt;/p&gt;
 &lt;h5 id=&#34;innodb-对-mvcc-的实现方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#innodb-对-mvcc-的实现方式&#34;&gt;#&lt;/a&gt; InnoDB 对 MVCC 的实现方式&lt;/h5&gt;
 &lt;h6 id=&#34;隐藏字段&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#隐藏字段&#34;&gt;#&lt;/a&gt; 隐藏字段&lt;/h6&gt;
 &lt;h6 id=&#34;readview&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#readview&#34;&gt;#&lt;/a&gt; ReadView&lt;/h6&gt;
