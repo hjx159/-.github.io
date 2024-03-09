@@ -1967,9 +1967,11 @@ private void customer(String message) &amp;#123;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/project/12306/12306%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+            <guid isPermalink="true">http://example.com/project/railway/12306%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
             <title>12306项目学习笔记</title>
-            <link>http://example.com/project/12306/12306%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+            <link>http://example.com/project/railway/12306%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+            <category term="项目" scheme="http://example.com/categories/project/" />
+            <category term="railway" scheme="http://example.com/categories/project/railway/" />
             <pubDate>Thu, 18 Jan 2024 20:27:39 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;项目介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目介绍&#34;&gt;#&lt;/a&gt; 项目介绍&lt;/h1&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#项目简介&#34;&gt;#&lt;/a&gt; 项目简介&lt;/h2&gt;
