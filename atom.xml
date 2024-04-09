@@ -8,7 +8,17 @@
     <author>
       <name>范特东东东</name>
     </author>
-    <updated>2024-03-16T16:00:00.000Z</updated>
+    <updated>2024-04-08T16:00:00.000Z</updated>
+    <entry>
+        <id>http://example.com/java/design-patterns/test/</id>
+        <title>test</title>
+        <link rel="alternate" href="http://example.com/java/design-patterns/test/"/>
+        <content type="html">&lt;p&gt;test&lt;/p&gt;
+</content>
+        <category term="Java" scheme="http://example.com/categories/java/" />
+        <category term="设计模式" scheme="http://example.com/categories/java/design-patterns/" />
+        <updated>2024-04-08T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/mind-map/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%90%88%E9%9B%86/</id>
         <title>思维导图合集</title>
@@ -16429,15 +16439,5 @@ Redis 集群有 16384 个哈希槽，&lt;strong&gt;每个 key 通过 &lt;code&gt
 </content>
         <category term="摄影" scheme="http://example.com/categories/photography/" />
         <updated>2023-11-14T16:30:42.887Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/photography/%E8%93%9D%E4%B8%8E%E9%BB%84/</id>
-        <title>蓝与黄</title>
-        <link rel="alternate" href="http://example.com/photography/%E8%93%9D%E4%B8%8E%E9%BB%84/"/>
-        <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/65539e35c458853aef322d09.jpg&#34; alt=&#34;一直在用的头像&#34; title=&#34;一直在用的头像hh&#34; /&gt;&lt;br /&gt;
-&lt;img data-src=&#34;https://pic.imgdb.cn/item/65539e33c458853aef3224f3.jpg&#34; alt=&#34;老电影的最后一幕&#34; title=&#34;老电影的最后一幕&#34; /&gt;&lt;/p&gt;
-</content>
-        <category term="摄影" scheme="http://example.com/categories/photography/" />
-        <updated>2023-11-14T16:20:56.108Z</updated>
     </entry>
 </feed>
