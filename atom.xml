@@ -3475,15 +3475,6 @@ Redis 集群有 16384 个哈希槽，&lt;strong&gt;每个 key 通过 &lt;code&gt
         <updated>2024-04-11T04:30:54.939Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/README/</id>
-        <title></title>
-        <link rel="alternate" href="http://example.com/README/"/>
-        <content type="html">&lt;h1 id=&#34;myobsidian&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#myobsidian&#34;&gt;#&lt;/a&gt; myObsidian&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;测测你的&lt;/strong&gt;&lt;font color=&#39;cornflowerblue&#39;&gt;马&lt;/font&gt;&lt;/p&gt;
-</content>
-        <updated>2024-04-10T17:22:59.609Z</updated>
-    </entry>
-    <entry>
         <id>http://example.com/mind-map/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%90%88%E9%9B%86/</id>
         <title>思维导图合集</title>
         <link rel="alternate" href="http://example.com/mind-map/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%90%88%E9%9B%86/"/>
@@ -16434,5 +16425,16 @@ private void customer(String message) &amp;#123;
 </content>
         <category term="摄影" scheme="http://example.com/categories/photography/" />
         <updated>2023-11-14T16:37:21.388Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/photography/%E4%B8%80%E4%BA%9B%E8%93%9D%E8%89%B2/</id>
+        <title>一些蓝色</title>
+        <link rel="alternate" href="http://example.com/photography/%E4%B8%80%E4%BA%9B%E8%93%9D%E8%89%B2/"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/6553a0aac458853aef3aa386.jpg&#34; alt=&#34;1号蓝嘉宾&#34; title=&#34;1号蓝嘉宾&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://pic.imgdb.cn/item/6553a0abc458853aef3aa631.jpg&#34; alt=&#34;2号蓝嘉宾&#34; title=&#34;2号蓝嘉宾&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/6553a0abc458853aef3aa4aa.jpg&#34; alt=&#34;3号蓝嘉宾&#34; title=&#34;3号蓝嘉宾&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="摄影" scheme="http://example.com/categories/photography/" />
+        <updated>2023-11-14T16:30:42.887Z</updated>
     </entry>
 </feed>
