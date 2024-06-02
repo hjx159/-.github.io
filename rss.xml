@@ -10,15 +10,8 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 02 Jun 2024 13:12:54 +0800</pubDate>
-        <lastBuildDate>Sun, 02 Jun 2024 13:12:54 +0800</lastBuildDate>
-        <item>
-            <guid isPermalink="true">http://example.com/cs-basics/network/http-vs-https.html/</guid>
-            <title></title>
-            <link>http://example.com/cs-basics/network/http-vs-https.html/</link>
-            <pubDate>Sun, 02 Jun 2024 13:12:54 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
+        <pubDate>Sun, 26 May 2024 22:09:53 +0800</pubDate>
+        <lastBuildDate>Sun, 26 May 2024 22:09:53 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">http://example.com/computer-base/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B8%B8%E9%97%AE%E5%85%AB%E8%82%A1%E6%96%87/</guid>
             <title>操作系统常问八股文</title>
@@ -18495,6 +18488,16 @@ private void customer(String message) &amp;#123;
             <pubDate>Wed, 15 Nov 2023 00:39:51 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/6553a0abc458853aef3aa4f3.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 &lt;img data-src=&#34;https://pic.imgdb.cn/item/6553a403c458853aef45fdc7.jpg&#34; alt=&#34;落日窗花&#34; title=&#34;落日窗花&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/photography/%E8%88%B9%E5%A4%AB%E8%9C%80%E9%BB%8D/</guid>
+            <title>船夫蜀黍</title>
+            <link>http://example.com/photography/%E8%88%B9%E5%A4%AB%E8%9C%80%E9%BB%8D/</link>
+            <category term="摄影" scheme="http://example.com/categories/photography/" />
+            <pubDate>Wed, 15 Nov 2023 00:37:21 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img data-src=&#34;https://pic.imgdb.cn/item/6553a275c458853aef40b302.jpg&#34; alt=&#34;上船！&#34; title=&#34;上船！&#34; /&gt;&lt;br /&gt;
+&lt;img data-src=&#34;https://pic.imgdb.cn/item/6553a275c458853aef40b256.jpg&#34; alt=&#34;看啥呢&#34; title=&#34;看啥呢&#34; /&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
